@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="styles/base.css" />
     
     <link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"/>
+    <link href='https://fonts.googleapis.com/css?family=Playfair+Display' rel='stylesheet' type='text/css'/>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'/>
 
     <asp:ContentPlaceHolder ID="head" runat="server">
     
